@@ -22,6 +22,6 @@ The .ipynb file is a little large, please be patient and reload it.
 
 ![alt text](https://github.com/iyutpo/San-Fancicso-Crime/blob/master/foo1.png)
 
-![alt text](https://github.com/iyutpo/San-Fancicso-Crime/blob/master/map1.png)
+![alt text](https://github.com/iyutpo/San-Fancicso-Crime/blob/master/map.png)
 
 ![alt text](https://github.com/iyutpo/San-Fancicso-Crime/blob/master/map2.png)
