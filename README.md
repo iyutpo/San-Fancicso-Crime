@@ -26,5 +26,6 @@ The .ipynb file is a little large, please be patient and reload it.
 
 ![alt text](https://github.com/iyutpo/San-Fancicso-Crime/blob/master/map2.png)
 
-# video:
-<video src="video.mp4" width="320" height="200" controls preload></video>
+# video Link Can Be Found Here:
+
+https://www.youtube.com/watch?v=5P6qwwHRRzE&feature=youtu.be
